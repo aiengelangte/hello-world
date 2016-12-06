@@ -1,2 +1,4 @@
 # hello-world
-just another reposity
+hi jone 
+hote here i like node.js
+i have find 
